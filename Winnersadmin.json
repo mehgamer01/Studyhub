@@ -1,1 +1,13 @@
-
+{
+  "approved_devices": [
+    "3371eeb5a69ab2b1"
+  ],
+  "blocked_devices": [
+    "blocked111device",
+    "blocked222device"
+  ],
+  "messages": {
+    "not_approved": "Your device is not registered. Please contact Mehgaon Hacker.",
+    "blocked": "Your device has been blocked by admin."
+  }
+}
