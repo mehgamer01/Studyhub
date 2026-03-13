@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "name":"Rahul",
+      "device":"a82bc91f2",
+      "last_active":1710000000000,
+      "total_time":5400
+    },
+    {
+      "name":"Amit",
+      "device":"d9a721e8c",
+      "last_active":1710002000000,
+      "total_time":9200
+    },
+    {
+      "name":"Vikas",
+      "device":"7bc218aa1",
+      "last_active":1710003000000,
+      "total_time":1200
+    }
+  ]
+}
