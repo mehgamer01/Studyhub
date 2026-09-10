@@ -34,11 +34,11 @@
     "a2b0a0a542f90a06"
   ],
   "blocked_devices": [
-    "blocked111device",
+    "20d3a9f43671b918",
     "blocked222device"
   ],
   "messages": {
     "not_approved": "please send 200 Rs and  open the app. Please contact Mehgaon Hacker.",
-    "blocked": "Your device has been blocked by admin."
+    "blocked": "Your device is already login in another device"
   }
 }
